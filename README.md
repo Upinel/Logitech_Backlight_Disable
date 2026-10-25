@@ -64,8 +64,6 @@ or start it at login with a launchd agent (macOS) or a systemd user service (Lin
 - **Receiver only.** A keyboard connected directly over Bluetooth isn't supported yet.
 - **Logi Options+** may push its own backlight settings when the keyboard reconnects. If the
   backlight keeps coming back, quit Options+ or remove the keyboard from it.
-- Linux and Windows should work with `hidapi`, but only macOS has been tested. On Linux you may
-  need a udev rule (or `sudo`) to access the receiver.
 
 ## How it works
 
