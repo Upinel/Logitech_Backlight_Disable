@@ -77,6 +77,10 @@ or start it at login with a launchd agent (macOS) or a systemd user service (Lin
 The byte layout comes from [Solaar](https://github.com/pwr-Solaar/Solaar)'s implementation of
 Backlight2.
 
+## License
+
+[MIT](LICENSE)
+
 ## Disclaimer
 
 Not affiliated with or endorsed by Logitech. Use at your own risk. The script only changes a
