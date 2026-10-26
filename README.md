@@ -55,7 +55,7 @@ it and run the command again.
 
 ### Keeping it off
 
-Some events, like waking from deep sleep, can make the keyboard reset the backlight to on.
+Some events, like waking from deep sleep, can make the keyboard reset the backlight to on. (so far it doesn't reset the backlight in my environment) 
 `watch` checks every 5 seconds and switches it back off when that happens. Run it in a terminal,
 or start it at login with a launchd agent (macOS) or a systemd user service (Linux).
 
