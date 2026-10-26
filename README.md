@@ -24,6 +24,7 @@ should also work through a Bolt or Unifying receiver, but haven't been tested. R
 - Python 3.8+
 - [`hidapi`](https://pypi.org/project/hidapi/) Python package
 - A Logitech **Bolt** or **Unifying** USB receiver with the keyboard paired to it
+- MacOS, Linux or Windows
 
 ## Install
 
